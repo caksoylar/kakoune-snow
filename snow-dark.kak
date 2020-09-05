@@ -4,7 +4,7 @@
 # Color:      gry2 #8c95a0 ~
 # Color:      gry3 #afb7c0 ~
 # Color:      gryc #cbd2d9 ~
-# Color:      gryp #afb7c0 ~
+# Color:      gryp #535c65 ~
 # Color:      red_ #be868c ~
 # Color:      gold #ab916d ~
 # Color:      gren #7f9d77 ~
@@ -57,7 +57,7 @@ face global StatusLineInfo     rgb:759abd@StatusLine
 face global StatusLineValue    rgb:7f9d77@StatusLine
 face global StatusCursor       @PrimaryCursor
 face global Prompt             rgb:759abd
-face global MatchingChar       rgb:cbd2d9,rgb:afb7c0
+face global MatchingChar       rgb:cbd2d9,rgb:535c65
 face global Whitespace         rgb:8c95a0+f
 face global BufferPadding      @Default
 face global WrapMarker         rgb:8c95a0+f
